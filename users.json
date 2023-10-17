@@ -1,0 +1,42 @@
+{
+  "user1": {
+    "id": 1,
+    "firstname": "John",
+    "lastname": "Weber",
+    "position": "Teacher",
+    "location": "Manila City",
+    "Company": "University of Philippines"
+  },
+  "user2": {
+    "id": 2,
+    "firstname": "Dirk",
+    "lastname": "Davis",
+    "position": "Manager",
+    "location": "Davao City",
+    "Company": "Land Bank of the Philippines"
+  },
+  "user3": {
+    "id": 3,
+    "firstname": "James",
+    "lastname": "Parker",
+    "position": "Secretary",
+    "location": "Manila City",
+    "Company": "SM Supermalls"
+  },
+  "user4": {
+    "id": 4,
+    "firstname": "Steve",
+    "lastname": "Jobs",
+    "position": "Developer",
+    "location": "Los Angeles City",
+    "Company": "Apple Inc."
+  },
+  "user5": {
+    "id": 5,
+    "firstname": "Michael",
+    "lastname": "Jordan",
+    "position": "Player",
+    "location": "Chicago",
+    "Company": "Chicago Bulls"
+  }
+}
